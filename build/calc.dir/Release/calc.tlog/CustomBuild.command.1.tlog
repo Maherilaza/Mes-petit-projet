@@ -1,0 +1,10 @@
+^C:\USERS\MAHERY JRD\DOCUMENTS\CC++\CMAKELISTS.TXT
+setlocal
+C:\mingw64\bin\cmake.exe "-SC:/Users/Mahery Jrd/Documents/CC++" "-BC:/Users/Mahery Jrd/Documents/CC++/build" --check-stamp-file "C:/Users/Mahery Jrd/Documents/CC++/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

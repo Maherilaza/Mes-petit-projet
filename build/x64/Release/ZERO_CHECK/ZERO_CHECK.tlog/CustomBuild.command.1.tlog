@@ -1,0 +1,10 @@
+^C:\USERS\MAHERY JRD\DOCUMENTS\CC++\BUILD\CMAKEFILES\B8EE439ABEF32983217309586B823CED\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe "-SC:/Users/Mahery Jrd/Documents/CC++" "-BC:/Users/Mahery Jrd/Documents/CC++/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Mahery Jrd/Documents/CC++/build/Calculatrice.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
