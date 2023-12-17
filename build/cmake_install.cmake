@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Mahery Jrd/Documents/CC++
+# Install script for directory: C:/Users/Mahery/Documents/CC++/Mes-petit-projet
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Mahery Jrd/Documents/CC++/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Mahery/Documents/CC++/Mes-petit-projet/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,6 +1,6 @@
-^C:\USERS\MAHERY JRD\DOCUMENTS\CC++\CMAKELISTS.TXT
+^C:\USERS\MAHERY\DOCUMENTS\CC++\MES-PETIT-PROJET\CMAKELISTS.TXT
 setlocal
-C:\mingw64\bin\cmake.exe "-SC:/Users/Mahery Jrd/Documents/CC++" "-BC:/Users/Mahery Jrd/Documents/CC++/build" --check-stamp-file "C:/Users/Mahery Jrd/Documents/CC++/build/CMakeFiles/generate.stamp"
+C:\winlibs-x86_64-posix-seh-gcc-13.2.0-mingw-w64ucrt-11.0.1-r3\mingw64\bin\cmake.exe -SC:/Users/Mahery/Documents/CC++/Mes-petit-projet -BC:/Users/Mahery/Documents/CC++/Mes-petit-projet/build --check-stamp-file C:/Users/Mahery/Documents/CC++/Mes-petit-projet/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
