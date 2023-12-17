@@ -1,3 +1,2 @@
-﻿  Building Custom Rule C:/Users/Mahery Jrd/Documents/CC++/CMakeLists.txt
-  main.cpp
-  calc.vcxproj -> C:\Users\Mahery Jrd\Documents\CC++\bin\Release\calc.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2146,5): warning : The referenced project 'C:\Users\Mahery Jrd\Documents\CC++\build\ZERO_CHECK.vcxproj' does not exist.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(547,5): error MSB3191: Impossible de créer le répertoire "C:\Users\Mahery Jrd\Documents\CC++\bin\Release\". L'accès au chemin d'accès 'C:\Users\Mahery Jrd\Documents\CC++\bin\Release\' est refusé.

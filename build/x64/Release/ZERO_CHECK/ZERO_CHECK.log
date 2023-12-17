@@ -1,9 +1,1 @@
-﻿  1>Checking Build System
-  CMake is re-running because C:/Users/Mahery Jrd/Documents/CC++/build/CMakeFiles/generate.stamp is out-of-date.
-    the file 'C:/Users/Mahery Jrd/Documents/CC++/CMakeLists.txt'
-    is newer than 'C:/Users/Mahery Jrd/Documents/CC++/build/CMakeFiles/generate.stamp.depend'
-    result='-1'
-  -- Selecting Windows SDK version 10.0.22621.0 to target Windows 6.2.9200.
-  -- Configuring done (0.0s)
-  -- Generating done (0.0s)
-  -- Build files have been written to: C:/Users/Mahery Jrd/Documents/CC++/build
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1192,5): error MSB3191: Impossible de créer le répertoire "C:\Users\Mahery Jrd\Documents\CC++\build\CMakeFiles\". L'accès au chemin d'accès 'C:\Users\Mahery Jrd\Documents\CC++\build\CMakeFiles\' est refusé.

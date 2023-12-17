@@ -9,4 +9,6 @@ Calc.exe {-arg} {number1} {number2}
 - `-s` : Effectue une soustraction.
 - `-m` : Effectue une multiplication.
 - `-d` : Effectue une division.
+- `-p` : Calculer la puissance
+- `-r` : Calculer la racine
 
